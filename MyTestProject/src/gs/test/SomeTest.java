@@ -23,4 +23,10 @@ public class SomeTest {
 		System.out.println(JSONArray.fromObject(l1));
 	}
 	
+	@Test
+	public void secondTest(){
+		
+		String s="123wefASDFqwe";
+	}
+	
 }
